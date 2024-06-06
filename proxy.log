@@ -1,0 +1,21 @@
+2024-06-06 19:10:47,250 - INFO - [*] Listening on 127.0.0.1:8888
+2024-06-06 19:12:17,177 - ERROR - Error in main server loop: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+2024-06-06 19:12:17,177 - INFO - Proxy socket closed
+2024-06-06 19:12:22,252 - ERROR - Error in main server loop: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+2024-06-06 19:12:22,252 - INFO - Proxy socket closed
+2024-06-06 19:13:10,489 - ERROR - Error in main server loop: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+2024-06-06 19:13:10,489 - INFO - Proxy socket closed
+2024-06-06 19:13:12,039 - ERROR - Error in main server loop: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+2024-06-06 19:13:12,039 - INFO - Proxy socket closed
+2024-06-06 19:16:39,962 - INFO - [*] Listening on 127.0.0.1:8888
+2024-06-06 19:16:50,460 - INFO - [*] Accepted connection from ('127.0.0.1', 57892)
+2024-06-06 19:16:50,785 - INFO - Connection handled successfully for target example.com:80
+2024-06-06 19:16:50,785 - INFO - Client socket closed
+2024-06-06 19:16:50,786 - INFO - [*] Accepted connection from ('127.0.0.1', 57894)
+2024-06-06 19:16:50,788 - ERROR - Error in HTTPS handling: [Errno 2] No such file or directory
+2024-06-06 19:16:50,789 - INFO - Connection handled successfully for target example.com:443
+2024-06-06 19:16:50,789 - INFO - Client socket closed
+2024-06-06 19:17:41,938 - INFO - [*] Accepted connection from ('127.0.0.1', 57925)
+2024-06-06 19:17:41,939 - ERROR - Error in HTTPS handling: [Errno 2] No such file or directory
+2024-06-06 19:17:41,939 - INFO - Connection handled successfully for target www.google.com:443
+2024-06-06 19:17:41,939 - INFO - Client socket closed
